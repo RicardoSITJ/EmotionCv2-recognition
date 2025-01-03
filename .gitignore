@@ -1,3 +1,2 @@
-.venv
-SaveEmotions.csv
+*.csv
 *.pyc
